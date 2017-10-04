@@ -1,0 +1,16 @@
+DESIGN STRATEGY
+QUESTION ANALYSIS: The task2 require us to match the cognates and synonyms of keyword in the urls or anchor text without considering capitals. Return at most 1000 urls that match the keyword.
+
+ANSWER: 
+We use Natural Language Toolkit (NLTK) to conduct the process of finding synonyms and stemming. 
+1.First, we need to split a url into several independent words by extract_words_from_url. 
+2.In function find_stemming_sets, the Lancaster stemmer find all cognates for given world list by Lancaster stemming algorithm. 
+3.Function find_synonym_sets will find all synonyms of keyword based on NLTK’s word net.
+lemmas() returns all synonyms under different POS.
+4.Then we only need to judge whether (wordlist + cognates of wordlist) and (keyword + synonyms of keyword) have intersection by function is_synonym_word.
+5.In the crawling process, if a url has matched the given keyword, it will be pushed in our frontier. Else it will be abandoned (line 86-88 in source code). 
+
+PS: This program may take a pretty long execution time since the crawlers need to search until 6th depth at most cases.
+
+ 
+
