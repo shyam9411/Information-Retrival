@@ -1,0 +1,65 @@
+Top 10 pages by RageRank
+G1
+(‘International_Standard_Book_Number', 0.04722912500783323)
+(‘Digital_object_identifier', 0.038740467403891456)
+(‘International_Standard_Serial_Number', 0.030363518706125574)
+('National_Diet_Library', 0.021434404999515586)
+('Bibcode', 0.017888823827558825)
+('PubMed_Identifier', 0.017586103621462106)
+('World_War_II', 0.014673346465007118)
+(‘Canada', 0.014371096654838265)
+('Japan', 0.013376579336785937)
+('OCLC', 0.012838784377925882)
+
+G2
+('Virtual_International_Authority_File', 0.022478045919075804)
+(‘International_Standard_Book_Number', 0.022319903198012345)
+('United_States', 0.01834434212419605)
+(‘Digital_object_identifier', 0.015497117072435767)
+('Integrated_Authority_File', 0.013974405040008235)
+('Wayback_Machine', 0.011705463133391065)
+('Biblioth%C3%A8que_nationale_de_France', 0.009118986888676192)
+(‘International_Standard_Serial_Number', 0.008922871820243176)
+('United_Kingdom', 0.008575850470818403)
+(‘Canada', 0.00842473263919269)
+
+
+Top 10 pages by In-link count
+G1
+('International_Standard_Book_Number', 432)
+('Tropical_cyclone', 355)
+('Digital_object_identifier', 353)
+('Bibcode', 245)
+('Wayback_Machine', 244)
+('National_Oceanic_and_Atmospheric_Administration', 221)
+('Extratropical_cyclone', 202)
+('National_Hurricane_Center', 199)
+('Pascal_(unit)', 191)
+('Storm_surge', 189)
+
+G2
+('International_Standard_Book_Number', 568)
+('Turks_and_Caicos_Islands', 411)
+('United_Kingdom', 380)
+('United_States', 346)
+('Bermuda', 341)
+('Montserrat', 335)
+('Anguilla', 333)
+('British_Virgin_Islands', 325)
+('Cayman_Islands', 319)
+('Geographic_coordinate_system', 306)
+
+Why do you think these web pages have high PageRank values?
+
+International_Standard_Book_Number receive high rank in all four ranking lists, which is mostly because it has the most in-link edges in both graphs.
+High ranking page in both lists includes Digital_object_identifier, which also own pretty much in-links (actually in G2, Digital_object_identifier has 296 in-links, ranking No. 11).
+The page United_States and United_Kingdom have the same situation.
+
+Another high ranking is International_Standard_Serial_Number. Although it has not very many in-links, the quality of its in-link pages might be very high (has high PageRank value in-links).
+
+In graph G1, our seed page Tropical_cyclone also has high in-link count but it is not ranked as top 10. Partly because that all its in-link page have not very high RageRank values.
+The page Turks_and_Caicos_Islands might have same situation.
+
+In conclusion, both in-link page number and the quality of in-links will affect the final ranking.
+
+

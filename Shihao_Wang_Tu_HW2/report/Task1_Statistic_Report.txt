@@ -1,0 +1,4 @@
+Statistics over G1 and G2
+1. Both graphs have no pages with no in-links(sources)
+2. Totally 68 pages with no out-links (sinks) in G1, occupying 6.8%
+3. Totally 6 pages with no out-links (sinks) in G2, occupying 0.6%
