@@ -1,0 +1,6 @@
+Satellite Catalog Number
+The Satellite Catalog Number (also known as NORAD Catalog Number, NASA catalog number, USSPACECOM object number or simply Catalog number and similar variants) is a sequential 5-digit number assigned by USSPACECOM (United States Space Command) to all Earth orbiting satellites in order of identification. Before USSPACECOM, the catalog was maintained by NORAD. The first catalogued object, catalog number 1957-001A, is the final stage of the rocket which launched Sputnik 1 and remained in orbit for almost two months. (Sputnik itself is 1957-001B and lasted in orbit an additional month.)
+As of August 2017[update], the National Space Science Data Center Master Catalog listed more than 42,900 tracked objects including more than 7,800 satellites launched into orbit since 1957.[1]
+See also[edit]
+External links[edit]
+References[edit]

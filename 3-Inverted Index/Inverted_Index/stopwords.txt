@@ -1,0 +1,48 @@
+the
+of
+and
+in
+to
+a
+is
+as
+on
+was
+for
+by
+with
+from
+that
+'s
+are
+at
+it
+were
+click
+here
+privacy
+reference
+references
+see
+also
+edit
+逗號
+逗号
+頓號
+頓號
+読点
+
+# My stopwords list consist of two parts: 1. stopwords in English and 2. field words
+
+# For the select of stopwords in English, I use the API in NLTK:nk.corpus.stopwords.words('english')
+# to make a intersection set with my top frequency terms (refer to unigram_term_frequency_table.txt).
+# And the word list stops when there is some word, which is not in English stopwords in NLTK, appears
+# in my term frequency table (in my case, it is 'hurricane'). These words selected are regarded as
+# common but useless words in searching. Since we should be really careful about the construction of
+# stopwords list in case of information missing, I don't put too many words in my list.
+
+# For the select of field words, it need to combine some page analysis and web domain knowledge.
+# The word 'click', 'here', 'privacy' are all common to be used as anchor text. and the word
+# 'reference', 'references', 'see', 'also', 'edit' are all key words of wiki article framework.
+# Finally, I found several Chinese terms which can be regarded as the translations of certain
+# punctuations. For example, '逗号' in Chinese means ','. So I add these words into stopwords list too.

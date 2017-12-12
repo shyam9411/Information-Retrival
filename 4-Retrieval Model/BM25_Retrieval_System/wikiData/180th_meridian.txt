@@ -1,0 +1,9 @@
+180th meridian
+The 180th meridian or antimeridian[1] is the meridian 180° east or west of the Prime Meridian, with which it forms a great circle dividing the earth into the Western and Eastern Hemispheres. It is common to both east longitude and west longitude. It is used as the basis for the International Date Line because it mostly passes through the open waters of the Pacific Ocean. However, the meridian passes through Russia and Fiji as well as Antarctica.
+Starting at the North Pole and heading south to the South Pole, the 180th meridian passes through:
+The meridian also passes between (but not particularly close to):
+The only place where roads cross this meridian, and where there are buildings very close to it, is in Fiji.
+Software representation problems[edit]
+Many geographic software libraries or data formats project the world to a rectangle; very often this rectangle is split exactly at the 180th meridian. This often makes it non-trivial to do simple tasks (like representing an area, or a line) over the 180th meridian. Some examples:
+See also[edit]
+Notes[edit]

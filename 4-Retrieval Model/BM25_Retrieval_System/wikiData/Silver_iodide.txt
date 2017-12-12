@@ -1,0 +1,13 @@
+Silver iodide
+Silver iodide is an inorganic compound with the formula AgI. The compound is a bright yellow solid, but samples almost always contain impurities of metallic silver that give a gray coloration. The silver contamination arises because AgI is highly photosensitive. This property is exploited in silver-based photography. Silver iodide is also used as an antiseptic and in cloud seeding.
+
+
+Structure[edit]
+The structure adopted by silver iodide is temperature dependent:[2]
+Preparation and properties[edit]
+Silver iodide is prepared by reaction of an iodide solution (e.g., potassium iodide) with a solution of silver ions (e.g., silver nitrate). A yellowish solid quickly precipitates. The solid is a mixture of the two principal phases. Dissolution of the AgI in hydroiodic acid, followed by dilution with water precipitates β-AgI. Alternatively, dissolution of AgI in a solution of concentrated silver nitrate followed by dilution affords α-AgI.[4] If the preparation is not conducted in the absence of sunlight, the solid darkens rapidly, the light causing the reduction of ionic silver to metallic. The photosensitivity varies with sample purity.
+Cloud seeding[edit]
+The crystalline structure of β-AgI is similar to that of ice, allowing it to induce freezing by the process known as heterogeneous nucleation. Approximately 50,000 kg are used for cloud seeding annually, each seeding experiment consuming 10–50 grams.[5]
+Safety[edit]
+Extreme exposure can lead to argyria, characterized by localized discoloration of body tissue.[6]
+References[edit]

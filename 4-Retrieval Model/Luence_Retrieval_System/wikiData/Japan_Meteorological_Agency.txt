@@ -1,0 +1,39 @@
+Japan Meteorological Agency
+The Japan Meteorological Agency (気象庁, Kishō-chō), JMA, is an agency of the Ministry of Land, Infrastructure, Transport and Tourism.[4] It is charged with gathering and providing results for the public in Japan, that are obtained from data based on daily scientific observation and research into natural phenomena in the fields of meteorology, hydrology, seismology and volcanology, among other related scientific fields. Its headquarters is located in Chiyoda, Tokyo.
+JMA is responsible for gathering and reporting weather data and forecasts for the general public, as well as providing aviation and marine weather. JMA other responsibilities include issuing warnings for volcanic eruptions, and the nationwide issuance of earthquake warnings of the Earthquake Early Warning (EEW) system. JMA is also designated one of the Regional Specialized Meteorological Centers of the World Meteorological Organization (WMO). It is responsible for forecasting, naming, and distributing warnings for tropical cyclones in the Northwestern Pacific region, including the Celebes Sea, the Sulu Sea, the South China Sea, the East China Sea, the Yellow Sea, the Sea of Japan and the Sea of Okhotsk.
+
+
+History[edit]
+Services[edit]
+Overview[edit]
+The JMA is responsible not only for gathering and reporting weather data and forecasts in Japan, but also for observation and warning of earthquakes, tsunamis, typhoons and volcanic eruptions.[7]
+The agency has six regional administrative offices (including five DMOs and Okinawa Meteorological Observatory), four Marine Observatories, five auxiliary facilities, four Aviation Weather Service Centers and 47 local offices composed of the LMOs. These are also used to gather data, supplemented by weather satellites such as Himawari, and other research institutes.[7]
+In 1968, the World Meteorological Organization (WMO) designated the JMA as a Regional Specialized Meteorological Centre (RSMC) for Asia.[8] In June 1988, the WMO also assigned the JMA as a RSMC for the Northwestern Pacific under its Tropical Cyclone programme.[8] In July 1989, the RSMC Tokyo – Typhoon Center was established within the headquarters office, which dealt with the forecasting and dissemination of active tropical cyclones, as well as preparing a summary of each year's cyclone activity.[9]
+Observation and forecast[edit]
+Weather[edit]
+Land weather[edit]
+Each DMO and LMO issues weather forecasts and warnings or advisories to the general public live in its own area. Weather data used to these forecasts are acquired from the Surface Observation (represented by the AMeDAS), the Radar Observation, the Upper-air Observation and the Satellite Observation mainly using the Himawari series.
+Marine weather[edit]
+The Marine Observatories are seated in Hakodate, Maizuru, Kobe and Nagasaki. These stations observe ocean waves, tide levels, sea surface temperature and ocean current etc. in the Northwestern Pacific basin, as well as the Sea of Japan and the Sea of Okhotsk basin, and provide marine meteorological forecasts resulted from them, in cooperation with the Hydrographic and Oceanographic Department, Japan Coast Guard.
+Aviation weather[edit]
+In 2005, in accordance with the ICAO's new CNS/ATM system, the Civil Aviation Bureau of the Ministry of Land, Infrastructure, Transport and Tourism set up the Air Traffic Management Center (ATMC) in Fukuoka, where the FIR is fixed. Along with this establishment, JMA placed the Air Traffic Meteorology Center (ATMetC) inside the ATMC.
+The agency forecasts SIGMET for aircraft in flight within the Fukuoka FIR airspace, while VOLMET is broadcast by each Aviation Weather Service Centers at the airports of Haneda, Narita, Centrair and Kansai. Additionally, Aviation Weather Stations (beside the airports of New Chitose, Sendai, Osaka, Fukuoka, Kagoshima and Naha) deal with the similar tasks as these.
+Tropical cyclones[edit]
+In the Northwestern Pacific area, the typhoon season ordinarily comes almost from May to November. The JMA forecasts and warns or advises on tropical cyclones to the public in Japan and its surrounding countries as well because it also works as the RSMC Tokyo – Typhoon Center.[10]
+Earthquakes[edit]
+The JMA has its own 624 observation stations across the country[11] that set up at intervals of 20 km approximately[12] in order to measure seismic intensity of earthquakes precisely. The agency also utilize about 2,900 more seismographs[11] owned by the National Research Institute for Earth Science and Disaster Prevention (NIED) and local governments. A 24-hour office has been housed within the JMA headquarters in Tokyo, for monitoring and tracking seismic events in the vicinity of Japan to collect and process their data, which issues observed earthquake's information on its hypocenter, magnitude, seismic intensity and possibility of tsunami occurrence after quakes quickly to the public through the Earthquake Phenomena Observation System (EPOS).[13] The Earthquake Early Warning (EEW) system began to work fully for the general public on October 1, 2007.
+The agency is one of the representatives of the national Coordinating Committee for Earthquake Prediction.[14]
+Tsunamis[edit]
+It is essential to provide coastal regions for tsunami information so that its catastrophic damages can be reduced and mitigated there. In case of there is a possibility of tsunami after an earthquake, JMA issues Tsunami Warning or Advisory for each region in Japan with information of estimated tsunami heights and arrival times within 2 to 3 minutes of the quake.
+Volcanos[edit]
+The agency set up four Volcanic Observations and Information Centers within DMOs in Sapporo, Sendai, Tokyo and Fukuoka. They are monitoring volcanic events on 110 active volcanos in Japan and 47 of these volcanos selected by the Coordinating Committee for Prediction of Volcanic Eruption are under the 24-hour observation with seismographs, accelerometers, GPS, air-shock recorders, fixed point observation cameras and other equipment. If it is predicted that a volcanic eruption will affect inhabited areas or are around a crater, Volcanic Warnings are issued and supplemented by Volcanic Alert Levels.
+Organization[edit]
+Headquarters[edit]
+Local offices[edit]
+Auxiliary organs[edit]
+Director-Generals and Chief Executives[edit]
+Chief Executives of Central Meteorological Observatory[edit]
+Director-Generals of JMA[edit]
+See also[edit]
+References[edit]
+External links[edit]

@@ -1,0 +1,5 @@
+The implementation of Task1 is based on the java code provided. What I did are only create a separate class HW3 for indexer and modify some format control.
+
+About the implementation of Task2, I firstly define a utility class InvertedIndexOperation to load inverted index, tf table, df table, token numbers dictionary and document id-name reflection table into to memory, forming dictionaries. Then I define a class QueryParser to conduct the same parsing process, for the user query, with the corpus. Finally, I define a class BM25 to realize BM25 retrieval model. Also, several helper functions to compute the parameters in BM25 model are defined in both BM25 and InvertedIndexOperation.
+
+Here is a trick to speed up my program. For a certain query, we can only define one BM25 object, load all data in memory and compute some invariable parameters such as avdl in advance. When checking a new document, I call the function set_doc in class BM25 to update all parameters related to documents.

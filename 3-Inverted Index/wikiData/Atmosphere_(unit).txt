@@ -1,0 +1,14 @@
+Atmosphere (unit)
+The standard atmosphere (symbol: atm) is a unit of pressure defined as 101325 Pa (1.01325 bar). It is sometimes used as a reference or standard pressure.
+
+
+History[edit]
+In 1954 the 10th Conférence Générale des Poids et Mesures (CGPM) adopted standard atmosphere for general use and affirmed its definition of being precisely equal to 1,013,250 dynes per square centimetre (101325 Pa).[1] This value was intended to represent the mean atmospheric pressure at mean sea level at the latitude of Paris, France,[citation needed] and does reflect the mean sea level pressure for many industrialized nations that are at broadly similar latitudes.
+In chemistry and in various industries, the reference pressure referred to in “Standard Temperature and Pressure” (STP) was commonly 1 atm (101.325 kPa) but standards have since diverged; in 1982, the International Union of Pure and Applied Chemistry (IUPAC) recommended that for the purposes of specifying the physical properties of substances, “standard pressure” should be precisely 100 kPa (1 bar).[2]
+Pressure units and equivalencies[edit]
+A pressure of 1 atm can also be stated as:
+Other applications[edit]
+Scuba divers and others use the word atmosphere and "atm" in relation to pressures that are relative to mean atmospheric pressure at sea level (1.013 bar).[citation needed] For example, a partial pressure of oxygen is calibrated typically using air at sea level, so is expressed in units of atm.
+The old European unit technical atmosphere (at) is equal to 1 kilogram-force per square centimetre (kgf/cm2), 7004980665000000000♠98066.5 Pa.[citation needed]
+See also[edit]
+References[edit]

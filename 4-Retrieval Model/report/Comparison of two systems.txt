@@ -1,0 +1,148 @@
+Conclusions: 
+1.Most titles of the results are related to the query or just contain part of query contents.
+2.Top 5 result are almost same but only a little difference in order.
+3.Generally, there is a 'strong' relevance between query and document if the Lucene score is large than 3.00 or the BM25 score is larger than 5.00.
+4.Sometimes two retrieval models will should different results for the same doc (like Badman_(EP) in query hurricane music lyrics).
+5.Although the order of words in the query does not have too much impact on the results, it indeed has.
+
+
+1.hurricane isabel damage
+BM25:
+Hurricane_Isabel 6.145547906182882
+Effects_of_Hurricane_Isabel_in_Maryland_and_Washington,_D.C. 6.103778192797088
+Effects_of_Hurricane_Isabel_in_Virginia 6.1005679752092545
+Effects_of_Hurricane_Isabel_in_Pennsylvania 6.052961925635637
+Effects_of_Hurricane_Isabel_in_New_York_and_New_England 6.050534092173121
+
+Lucene:
+Hurricane_Isabel 0.55561054
+Effects_of_Hurricane_Isabel_in_New_Jersey 0.5284045
+Effects_of_Hurricane_Isabel_in_Delaware 0.4962482
+Effects_of_Hurricane_Isabel_in_New_York_and_New_England 0.48171672
+Effects_of_Hurricane_Isabel_in_Pennsylvania 0.4806883
+
+
+2.forecast models
+BM25:
+Tropical_cyclone_prediction_model 5.15376166046531
+Tropical_cyclone_rainfall_forecasting 5.0842660817126415
+Weather_forecasting 5.0611058533140625
+Tropical_cyclone_track_forecasting 5.057811170399982
+History_of_Atlantic_tropical_cyclone_warnings 5.019388849029742
+
+Lucene:
+Tropical_cyclone_prediction_model 0.46052408
+Tropical_cyclone_track_forecasting 0.34275055
+Tropical_cyclone_rainfall_forecasting 0.33096382
+Weather_forecasting 0.28463003
+Tropical_cyclone_forecasting 0.28076416
+
+
+3.green energy canada
+BM25:
+Ontario 6.294924322001821
+Weather_radar 5.803769385193773
+Air_pollution 5.55158182212102
+Energy_source 5.19470278534738
+Hydro-Qu%C3%A9bec 5.111288976675849
+
+Lucene:
+Energy_source 0.27921978
+Canada 0.23253283
+United_States_Department_of_Energy 0.21604107
+Ontario 0.21439603
+Hamilton,_Ontario 0.145613
+
+4.heavy rains
+BM25:
+Hurricane_Cleo 1 3.873472522567587
+List_of_wettest_tropical_cyclones_by_country 3.8662799943139463
+Hurricane_Hilda 3 3.850016974503336
+Hurricane_Joan%E2%80%93Miriam 3.8449376412807714
+2017_North_Indian_Ocean_cyclone_season 3.844310792946623
+
+Lucene:
+Hurricane,_Bollinger_County,_Missouri 0.34280926
+Hurricane_Joan%E2%80%93Miriam 0.20992693
+Tropical_Storm_Marco_(2008) 0.20617132
+Hurricane_Cleo 0.20381483
+List_of_wettest_tropical_cyclones_by_country 0.19331549
+
+
+5.hurricane music lyrics
+BM25:
+Hurricane_(Natalie_Grant_album) 7.810700236853565
+Hurricane_(Bridgit_Mendler_song) 7.560489122250192
+Badman_(EP) 7.492365625175863
+Hurricane_(Grace_Jones_album) 7.4519923530453696
+Hurricane_(Leon_Everette_song) 7.417248119158346
+
+Lucene:
+Audioboxer 0.7363481
+Hurricane_(Natalie_Grant_album) 0.41494375
+Hurricane_(Leon_Everette_song) 0.4011028
+Addicted_Romantic 0.3697164
+Badman_(EP) 0.2904236
+
+
+6.accumulated snow
+
+BM25:
+Snow 5.835709363901625
+Graupel 5.812150865701778 
+Winter_storm 5.612111304411057
+Freezing_rain 5.6039218164916145
+Hail 5.561269117020018
+
+Lucene:
+Snow 0.42450976
+Graupel 0.35497987
+Winter_storm 0.33980185
+Snow_grains 0.26320043
+Freezing_rain 0.2484859
+
+7.snow accumulation
+BM25:
+Rain_and_snow_mixed 6.675013314863356
+Snow 6.61986405185338
+Winter_storm 6.581061820952794
+Ice_pellets 6.567961872646173
+Ice_storm 6.499902534581614
+
+Lucene:
+Snow_roller 0.55519783
+Rain_and_snow_mixed 0.48925155
+Snow 0.44890493
+Winter_storm 0.3909641
+Ice_pellets 0.36472982
+
+
+8.massive blizzards blizzard
+BM25:
+Blizzard 11.922009727127758
+Winter_storm 11.082959758773946
+Severe_weather 9.939787850267718
+Ground_blizzard 9.08929741613323
+Thundersnow 8.424581585067095
+
+Lucene:
+Blizzard
+Ground_blizzard 0.49924988
+Winter_storm 0.24105349
+Severe_weather 0.17053582
+Thundersnow 0.15095806
+
+9.new york city subway
+BM25:
+New_York_City 1 8.777622158720899
+Hurricane_Sandy 2 8.452940625547853
+New_York_(state) 3 8.29106255904016
+Washington_Metro 4 8.081387858110016
+New_Jersey 5 7.880127240142258
+
+Lucene:
+New_York_City 0.45444775
+New_York_(state) 0.40476346
+Hurricane_Sandy 0.23701617
+Washington_Metro 0.20982745
+New_Jersey 0.19984266

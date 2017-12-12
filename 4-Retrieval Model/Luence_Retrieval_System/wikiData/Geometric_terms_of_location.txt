@@ -1,0 +1,6 @@
+Geometric terms of location
+Geometric terms of location describe directions or positions relative to the shape of an object. These terms are used in descriptions of engineering, physics, and other sciences, as well as ordinary day to day discourse.
+Though these terms by themselves may be somewhat ambiguous, they are usually used in a context in which their meaning is clear. For example, when referring to a drive shaft it is clear what is meant by axial or radial directions. Or, in a free body diagram, one may similarly infer a sense of orientation by the forces or other vectors represented.
+Examples[edit]
+Common geometric terms of location are:
+References[edit]

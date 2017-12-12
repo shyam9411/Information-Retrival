@@ -1,0 +1,37 @@
+Orbital period
+The orbital period is the time a given astronomical object takes to complete one orbit around another object, and applies in astronomy usually to planets or asteroids orbiting the Sun, moons orbiting planets, exoplanets orbiting other stars, or binary stars.
+For objects in the Solar System, this is often referred to as the sidereal period, determined by a 360° revolution of one celestial body around another, e.g. the Earth orbiting the Sun. The name sidereal is added as it implies that the object returns to the same position relative to the fixed stars projected in the sky. When describing orbits of binary stars, the orbital period is usually referred to as just the period. For example, Jupiter has a sidereal period of 11.86 years while the main binary star Alpha Centauri AB has a period of about 79.91 years.
+Another important orbital period definition can refer to the repeated cycles for celestial bodies as observed from the Earth's surface. An example is the so-called synodic period, applying to the elapsed time where planets return to the same kind of phenomena or location. For example, when any planet returns between its consecutive observed conjunctions with or oppositions to the Sun. For example, Jupiter has a synodic period of 398.8 days from Earth; thus, Jupiter's opposition occurs once roughly every 13 months.
+Periods in astronomy are conveniently expressed in various units of time, often in hours, days, or years. They can be also defined under different specific astronomical definitions that are mostly caused by small complex eternal gravitational influences by other celestial objects. Such variations also include the true placement of the centre of gravity between two astronomical bodies (barycenter), perturbations by other planets or bodies, orbital resonance, general relativity, etc. Most are investigated by detailed complex astronomical theories using celestial mechanics using precise positional observations of celestial objects via astrometry.
+
+
+Other periods related to the orbital period[edit]
+There are many periods related to the orbits of objects, each of which are often used in the various fields of astronomy and astrophysics. Examples of some of the common ones include :
+Small body orbiting a central body[edit]
+According to Kepler's Third Law, the orbital period T (in seconds) of two bodies orbiting each other in a circular or elliptic orbit is:[citation needed]
+where:
+For all ellipses with a given semi-major axis the orbital period is the same, regardless of eccentricity.
+Inversely, for calculating the distance where a body has to orbit in order to pulse a given orbital period:
+where:
+For instance, for completing an orbit every 24 hours around a mass of 100 kg, a small body has to orbit at a distance of 1.08 meters from its center of mass.
+Orbital period as a function of central body's density[edit]
+When a very small body is in a circular orbit barely above the surface of a sphere of any radius and mean density ρ (in kg/m3), the above equation simplifies to (since M = Vρ = 4/3πa3ρ)[1]>:
+So, for the Earth as the central body (or any other spherically symmetric body with the same mean density, about 5,515 kg/m3)[2] we get:
+and for a body made of water (ρ ≈ 1,000 kg/m3)[3]
+Thus, as an alternative for using a very small number like G, the strength of universal gravity can be described using some reference material, like water: the orbital period for an orbit just above the surface of a spherical body of water is 3 hours and 18 minutes. Conversely, this can be used as a kind of "universal" unit of time if we have a unit of mass, a unit of length and a unit of density.
+Two bodies orbiting each other[edit]
+In celestial mechanics, when both orbiting bodies' masses have to be taken into account, the orbital period T can be calculated as follows:[4]
+where:
+Note that the orbital period is independent of size: for a scale model it would be the same, when densities are the same (see also Orbit#Scaling in gravity).[citation needed]
+In a parabolic or hyperbolic trajectory, the motion is not periodic, and the duration of the full trajectory is infinite.
+Synodic period[edit]
+There are observable characteristics of two bodies which orbit a third body in different orbits, and thus have different orbital periods. This is known as their synodic period; it is the time between conjunctions, and since it is observable from either the first or the second body, the two synodic periods will be different, depending from which celestial body you are observing.
+An example of this related period description is the repeated cycles for celestial bodies as observed from the Earth's surface, the so-called synodic period, applying to the elapsed time where planets return to the same kind of phenomena or location. For example, when any planet returns between its consecutive observed conjunctions with or oppositions to the Sun. For example, Jupiter has a synodic period of 398.8 days from Earth; thus, Jupiter's opposition occurs once roughly every 13 months.
+If the orbital periods of the two bodies around the third are called P1 and P2, so that P1 < P2, their synodic period is given by:[citation needed]
+Examples of sidereal and synodic periods[edit]
+Table of synodic periods in the Solar System, relative to Earth:[citation needed]
+In the case of a planet's moon, the synodic period usually means the Sun-synodic period, namely, the time it takes the moon to complete its illumination phases, completing the solar phases for an astronomer on the planet's surface. The Earth's motion does not determine this value for other planets because an Earth observer is not orbited by the moons in question. For example, Deimos's synodic period is 1.2648 days, 0.18% longer than Deimos's sidereal period of 1.2624 d.[citation needed]
+Binary stars[edit]
+See also[edit]
+Notes[edit]
+External links[edit]

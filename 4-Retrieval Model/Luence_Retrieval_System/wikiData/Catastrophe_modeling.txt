@@ -1,0 +1,22 @@
+Catastrophe modeling
+Catastrophe modeling (also known as cat modeling) is the process of using computer-assisted calculations to estimate the losses that could be sustained due to a catastrophic event such as a hurricane or earthquake. Cat modeling is especially applicable to analyzing risks in the insurance industry and is at the confluence of actuarial science, engineering, meteorology, and seismology.
+
+
+Perils analyzed[edit]
+Natural catastrophes (sometimes referred to as "nat cat") include:
+Human catastrophes include:
+Lines of business modeled[edit]
+Input[edit]
+The input into a typical cat modeling software package is information on the exposures being analyzed that are vulnerable to catastrophe risk. The exposure data can be categorized into three basic groups:
+Output[edit]
+The output is an estimate of the losses that the model predicts would be associated with a particular event or set of events. When running a probabilistic model, the output is either a probabilistic loss distribution or a set of events that could be used to create a loss distribution; probable maximum losses (PMLs) and average annual losses (AALs) are calculated from the loss distribution. When running a deterministic model, losses caused by a specific event are calculated; for example, Hurricane Katrina or "a magnitude 8.0 earthquake in downtown San Francisco" could be analyzed against the portfolio of exposures.
+Uses[edit]
+Open catastrophe modeling[edit]
+Recently, an effort to create and disseminate open multi-hazard cat risk modeling tools was initiated by the Alliance for Global Open Risk Analysis (AGORA).
+Also, Oasis Loss Modelling Framework (LMF) http://www.oasislmf.org has been created. It has been founded as a not for profit organisation funded and owned by the Insurance Industry to promote open access to models and to promote transparency. Open source code to be available.
+Operating on the Oasis LMF, Boat Oasis, the multi-peril cat risk modelling platform, has been brought to market by Boat Services to provide the insurance industry with a deeper understanding of risk. The Boat Oasis platform allows model providers from all over the world to make their models available to the industry using the Oasis framework. By creating a marketplace where vendors can make their models available via a single user interface, the platform lowers the barriers to entry in the cat model marketplace and encourages the development of new and improved cat risk models.
+Additionally, the insurance industry is currently working with the Association for Cooperative Operations Research and Development (ACORD) to develop an industry standard for collecting and sharing exposure data. To date, the industry has been operating on closed, proprietary data formats.
+See also[edit]
+References[edit]
+External links[edit]
+
